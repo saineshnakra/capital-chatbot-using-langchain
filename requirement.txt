@@ -1,0 +1,12 @@
+langchain
+openai
+langchain_community
+torch
+transformers
+requests
+google-cloud-aiplatform
+geminiai-chat-python
+python-dotenv
+geminiai-chat-python
+google-generativeai
+huggingface_hub
